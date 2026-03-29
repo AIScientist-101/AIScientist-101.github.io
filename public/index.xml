@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/helloworld/</link>
       <pubDate>Sun, 29 Mar 2026 15:05:01 +0800</pubDate>
       <guid>http://localhost:1313/posts/helloworld/</guid>
-      <description></description>
+      <description>&lt;p&gt;Hell World&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
