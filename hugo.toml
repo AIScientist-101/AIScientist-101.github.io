@@ -2,3 +2,14 @@ theme = "PaperMod"
 baseURL = 'https://aiscientist-101.github.io/'
 locale = 'zh-cn'
 title = 'The AI Scientist'
+
+[params.homeInfoParams]
+    Title = "HI, I am Max👋"
+    Content = "专注AI数据科学与学术分享"
+
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/AIScientist-101"
+[[params.socialIcons]]
+    name = "email"
+    url = "mailto:xiaobaocc.seven@email.com"
