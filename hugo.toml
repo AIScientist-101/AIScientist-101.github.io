@@ -1,0 +1,4 @@
+theme = "PaperMod"
+baseURL = 'https://aiscientist-101.github.io/'
+locale = 'zh-cn'
+title = 'The AI Scientist'
