@@ -4,7 +4,9 @@ draft = false
 title = 'Hello AI'
 +++
 
-Gain a deeper understanding of AI and its impact on our world — uncover its potential, and feel inspired to tackle this transformative field...
+Gain a deeper understanding of AI and its impact on our world — uncover its potential, and feel inspired to tackle this transformative field...  
+
+
   
 ```
  _   _      _ _            _    ___ 
