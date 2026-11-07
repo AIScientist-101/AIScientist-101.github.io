@@ -14,7 +14,4 @@ title = 'The AI Scientist'
     name = "email"
     url = "mailto:xiaobaocc.seven@email.com"
 [[params.assets]]
-    favicon = "favicon.ico"
-    favicon16x16 = "favicon.ico"
-    favicon32x32 = "favicon.ico"
-    apple_touch_icon = "favicon.ico"
+    favicon = "static/favicon.ico"
