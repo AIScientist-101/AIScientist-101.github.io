@@ -4,8 +4,8 @@ locale = 'zh-cn'
 title = 'The AI Scientist'
 
 [params.homeInfoParams]
-    Title = "HI, I am Max👋"
-    Content = "专注AI数据科学与学术分享"
+    Title = "HI, I‘m Max👋"
+    Content = "专注 AI & 数据科学"
 
 [[params.socialIcons]]
     name = "github"
