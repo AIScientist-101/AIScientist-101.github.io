@@ -13,3 +13,5 @@ title = 'The AI Scientist'
 [[params.socialIcons]]
     name = "email"
     url = "mailto:xiaobaocc.seven@email.com"
+[params]
+  favicon = "favicon.ico" 
