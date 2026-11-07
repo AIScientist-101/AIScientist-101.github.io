@@ -5,7 +5,7 @@ title = 'The AI Scientist'
 
 [params.homeInfoParams]
     Title = "HI, I‘m Max👋"
-    Content = "专注 AI & 数据科学"
+    Content = "专注 AI & 数据科学（Focusing on AI & Data Science）"
 
 [[params.socialIcons]]
     name = "github"
